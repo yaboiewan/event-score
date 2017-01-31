@@ -5,14 +5,14 @@
 
 Title your score. Use the same title for all variations.
 
-1. On one page, write/type your "event score." This score should be a set of simple instructions for a
+1. First, write your "event score." This score should be a set of simple instructions for a
 non-winnable, voluntary, interactive, playable experience in time. Use a minimum of one word and a
 maximum of 25 words.
-2. On a second page, create a hand-illustrated picture of your score. Your picture can be an illustration
+2. Second, create a hand-illustrated picture of your score. Your picture can be an illustration
 of what the experience would look like if people actually performed your event score in real life.
 Alternatively, it can be an abstraction or visualization (e.g. diagram or symbolic notation) of your
 score. Scan or photograph this hand-drawn picture.
-3. On a third page, reprint/retype your event score (variation 1) with a couple of adjustments. If your
+3. Third, rewrite your event score (variation 1) with a couple of adjustments. If your
 original score was not written in complete sentences, force your words into complete sentences
 (prose-ify your score). You must also add one new sentence that describes a "win condition" (ending
 point) for your playable experience. The win condition does not need to be perfectly rational or
