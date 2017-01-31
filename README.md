@@ -2,8 +2,6 @@
 # Sketch 1: Event Score (3 Variations)
 
 ## Rules
-Each variation should be displayed on a separate page of a three-page PDF (or three clearly labeled
-one-page PDFs) and as a three-page printout on paper.
 
 Title your score. Use the same title for all variations.
 
