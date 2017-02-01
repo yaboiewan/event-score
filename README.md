@@ -1,6 +1,8 @@
 *IDEA 135: Games at Work*
 # Sketch 1: Event Score (3 Variations)
 
+*Create three variations on an original "event score” in the style of the Fluxus artists.*
+
 ## Rules
 
 Title your score. Use the same title for all variations.
