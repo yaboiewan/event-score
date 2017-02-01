@@ -1,6 +1,10 @@
 *IDEA 135: Games at Work*
 # Sketch 1: Event Score (3 Variations)
 
+
+> *Instruction (Brecht, 1961)*
+> "Turn on a radio. At the first sound, turn it off."
+
 **Create three variations on an original "event score” in the style of the Fluxus artists.**
 
 ## Rules
